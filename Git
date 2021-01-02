@@ -1,0 +1,8 @@
+Creating New Branch:		 => git checkout -b branchNameHere”
+Deleteing .git repository:  => rm -rf  .git
+Checking Status of repository: => git status
+
+
+git status
+git init
+git commit -m "First Commit".
